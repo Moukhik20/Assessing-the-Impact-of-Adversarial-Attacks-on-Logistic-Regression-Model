@@ -1,4 +1,4 @@
-# Assessing-the-Impact-of-Attacks-on-Logistic-Regression-Model
+# Assessing-the-Impact-of-Adversarial-Attacks-on-Logistic-Regression-Model
 Dataset Used: Digit Recognizer Dataset - Kaggle
 ##
 Attacks Performed: 
