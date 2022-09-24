@@ -1,5 +1,5 @@
 # Assessing-the-Impact-of-Adversarial-Attacks-on-Logistic-Regression-Model
-Dataset Used: Digit Recognizer Dataset - Kaggle
+Dataset Used: MNIST Dataset 
 ##
 Attacks Performed: 
 1. Targeted Attacks - Natural and Non- Natural Fooling Targets
